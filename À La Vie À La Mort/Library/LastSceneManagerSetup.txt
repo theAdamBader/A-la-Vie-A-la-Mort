@@ -1,5 +1,4 @@
 sceneSetups:
-- path: "C:/Users/adamb/Downloads/\xC3\u20AC La Vie, \xC3\u20AC La Mort(2)/\xC0 La
-    Vie, \xC0 La Mort/Assets/Scenes/test.unity"
+- path: Assets/Scene/level1.unity
   isLoaded: 1
   isActive: 1
